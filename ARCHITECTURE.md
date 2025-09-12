@@ -98,7 +98,7 @@
 - Adjustments after reconciliation
 - Auto-retry payout failures
 
----
+--- 
 
 ## 🧾 7 — Pricing Models
 - Flat monthly price
