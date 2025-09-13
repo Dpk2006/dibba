@@ -74,6 +74,34 @@ tiffin-app/
 
 
 
-// Models in my lang - 
+// Features:
 
 
+User model - 
+    Profile
+    name
+    address 
+    Mobile
+    Gmail
+
+    Order history (Mtlb kitni services le chuka hai wo)
+    Patment related details
+
+Providers detail model  -
+    Unique id for their shop
+    Shop name 
+    Address 
+    Mobile no 
+    Gmail 
+    Photo
+    pass
+    Authentication section using aadhar
+
+Tiffin services model (Mtlb tiffin sare isme dal skta hu) 
+    state
+        district   
+            Majors cities (like jaipur)
+                Areas and sector ()
+                    Tiffins services on this area and nearby this area 
+                        provider name 
+                        Tiffin service - food items and all details 

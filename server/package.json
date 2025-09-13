@@ -15,9 +15,12 @@
   "bugs": {
     "url": "https://github.com/Dpk2006/dibba/issues"
   },
+  "type": "module",
   "homepage": "https://github.com/Dpk2006/dibba#readme",
   "dependencies": {
     "dotenv": "^17.2.2",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mongodb": "^6.19.0",
+    "mongoose": "^8.18.1"
   }
 }
